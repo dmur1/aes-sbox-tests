@@ -1,5 +1,6 @@
 example output:
 
+```
 % python3 ./go.py
 0x11b
 00 01 8d f6 cb 52 7b d1 e8 4f 29 c0 b0 e1 e5 c7 
@@ -35,3 +36,4 @@ d8 72 c0 58 e0 3e 4c 66 90 de 55 80 a0 83 4b 2a
 29 71 c8 f6 f9 43 d7 d6 10 73 76 78 99 0a 19 91 
 14 3f e6 f0 86 b1 e2 f1 fa 74 f3 b4 6d 21 b2 6a 
 e3 e7 b5 ea 03 8f d3 c9 42 d4 e8 75 7f ff 7e fd
+```
